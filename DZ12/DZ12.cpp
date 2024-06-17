@@ -17,6 +17,7 @@ void main()
 	{
 		(*FunkARR[i])();
 	}
+	return 0;
 }
 void FirstFunk()
 {
